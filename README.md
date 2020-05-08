@@ -12,7 +12,7 @@ One of our main objectives is to allow people to enjoy the Wild safely and witho
 
 ## Users
 
-Users get free access to a tool specifically designed for planning expeditions. Specifically the parts for which other solutions don't exist already. See [free features](/features).
+Users get free access to a tool specifically designed for planning expeditions. Specifically the parts for which other solutions don't exist already. See [free features](/features.md).
 
 Users with more specific needs can get access to more features for a fee. See [paid features]()
 
