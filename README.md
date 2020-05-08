@@ -1,8 +1,8 @@
 # Adventure Logistics
 
-Adventures in the wild can be very fun, healthy and fulfilling, but they can also be difficult to plan, dangerous and costly.
+Plan your next wilderness adventure easily, quickly and safely.
 
-We're here to help strike the perfect balance to get you out there quickly and back safely.
+Adventures in the wild can be very fun, healthy and fulfilling, but they can also be difficult to plan, dangerous and costly. We're here to help strike the perfect balance to get you out there quickly and back safely.
 
 ## Safety first
 
