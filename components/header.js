@@ -19,7 +19,7 @@ export default function Header () {
       <style jsx>
         {`
           header {
-            padding: 1rem 1rem 0;
+            padding: 2rem 1rem 1rem 1rem;
           }
           #header-links {
             width: 100%;

@@ -65,7 +65,7 @@ export default function Footer () {
           }
           footer {
             font-size: smaller;
-            padding: 4rem 2rem 3rem 1rem;
+            padding: 4rem 2rem 3rem 2rem;
           }
           #footer-links {
             text-align: center;

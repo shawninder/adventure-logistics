@@ -10,7 +10,9 @@ export default function Home () {
         <title>Adventure Logistics</title>
       </Head>
       <Main>
-        <Content />
+        <section>
+          <Content />
+        </section>
       </Main>
       <style jsx>
         {`
