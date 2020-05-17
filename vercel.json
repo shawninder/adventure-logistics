@@ -5,7 +5,6 @@
       "src": "next.config.js", "use": "@now/next"
     }
   ],
-  "regions": ["yul1"],
   "github": {
     "enabled": true
   }
