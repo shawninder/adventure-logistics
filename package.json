@@ -1,0 +1,29 @@
+{
+  "name": "adventure-logistics",
+  "version": "1.0.0",
+  "description": "Top-level repository for the Adventure Logistics project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawninder/adventure-logistics.git"
+  },
+  "author": "Shawn Inder <shawninder@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/shawninder/adventure-logistics/issues"
+  },
+  "homepage": "https://github.com/shawninder/adventure-logistics#readme",
+  "dependencies": {
+    "@mdx-js/loader": "1.6.1",
+    "@next/mdx": "9.4.0",
+    "nes.css": "2.3.0",
+    "next": "9.4.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
