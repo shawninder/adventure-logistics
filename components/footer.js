@@ -6,7 +6,7 @@ export default function Footer () {
       <ul id='footer-links'>
         <li>
           <h6><Link href='/'><a>Adventure Logistics</a></Link></h6>
-          <ul>
+          {/* <ul>
             <li><Link href='/about'><a>About Us</a></Link></li>
             <li><Link href='/apps'><a>Apps</a></Link></li>
             <li><Link href='/pricing'><a>Pricing</a></Link></li>
@@ -14,9 +14,9 @@ export default function Footer () {
             <li><Link href='/contact'><a>Contact Us</a></Link></li>
             <li><Link href='/roadmap'><a>Roadmap</a></Link></li>
             <li><Link href='/status'><a>Status</a></Link></li>
-          </ul>
+          </ul> */}
         </li>
-        <li>
+        {/* <li>
           <h6><Link href='/features'><a>Features</a></Link></h6>
           <ul>
             <li><Link href='/features/core'><a>Core Features</a></Link></li>
@@ -47,16 +47,16 @@ export default function Footer () {
                 />
               </a>
             </li>
-            <li><Link href='/compliance/gdpr'><a>GDPR</a></Link></li> */}
+            <li><Link href='/compliance/gdpr'><a>GDPR</a></Link></li>
           </ul>
-        </li>
+        </li> */}
       </ul>
-      <ul id='footer-deal-breakers'>
+      {/* <ul id='footer-deal-breakers'>
         <li>© 2020 Adventure Logistics</li>
         <li><Link href='/security'><a>Security</a></Link></li>
         <li><Link href='/privacy'><a>Your Privacy</a></Link></li>
         <li><Link href='/terms'><a>Terms</a></Link></li>
-      </ul>
+      </ul> */}
       <style jsx>
         {`
           ul {

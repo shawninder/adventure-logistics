@@ -1,10 +1,10 @@
-import Link from 'next/link'
+// import Link from 'next/link'
 
 export default function Header () {
   return (
     <header>
       <h1>Adventure Logistics</h1>
-      <div id='header-links'>
+      {/* <div id='header-links'>
         <ul id='header-links-info'>
           <li><Link href='/products'><a className='nes-btn'>Products</a></Link></li>
           <li><Link href='/services'><a className='nes-btn'>Services</a></Link></li>
@@ -15,7 +15,7 @@ export default function Header () {
           <li><Link href='/signin'><a className='nes-btn'>Sign In</a></Link></li>
           <li><Link href='/signup'><a className='nes-btn is-primary'>Sign Up</a></Link></li>
         </ul>
-      </div>
+      </div> */}
       <style jsx>
         {`
           header {
