@@ -1,7 +1,7 @@
 export default function Teaser () {
   return (
     <div id='teaser'>
-      <img src='/Rouge-canyon-rapids-from-above.jpg' />
+      <img src='/Shawn-starting-fire.JPG' />
       <style jsx>
         {`
           #teaser {
@@ -12,6 +12,7 @@ export default function Teaser () {
           }
           img {
             width: 100%;
+            image-rendering: pixelated;
           }
         `}
       </style>
