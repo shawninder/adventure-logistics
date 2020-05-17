@@ -9,9 +9,12 @@ Correctly tracking expenses and revenues against predictions allows making bette
 ## Appeal to good will
 
 What we're doing is encouraging safety, the protection of the environment, fun, science, physical activity, collaboration, transparency, non-profit motives, etc. This is easy material to sell! It's not unreasonable to expect some level of success with:
+- crowdfunding
+  - Hikster adds 1km of trails in the appp for every 5$ donated, for example
 - making it possible to pay for the free plan
 - donations (including kickstarter, indiegogo, and the like)
 - grants
+  - MontrealInc. Grant+
 - free publicity
 - volunteering
 - internships

@@ -1,14 +1,12 @@
+import Header from './header.js'
+import Footer from './footer.js'
+
 export default function Page ({ children }) {
   return (
-    <div className='container'>
+    <div>
+      <Header />
       {children}
-      <style jsx>
-        {`
-          .container {
-            padding: 4rem 8rem;
-          }
-        `}
-      </style>
+      <Footer />
     </div>
   )
 }

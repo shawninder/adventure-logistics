@@ -62,17 +62,33 @@ export default function Footer () {
           ul {
             list-style: none;
             padding-left: 0;
-            margin: 0 auto;
           }
-          footer > ul {
-            margin: 1rem auto;
+          footer {
+            font-size: smaller;
+            padding: 4rem 2rem 3rem 1rem;
+          }
+          #footer-links {
             text-align: center;
           }
-          footer > ul > li {
+          #footer-links > li {
             display: inline-block;
             vertical-align: top;
             text-align: left;
-            margin: 1rem;
+          }
+          #footer-links > li:not(:last-of-type) {
+            margin-right: 10rem;
+          }
+          #footer-deal-breakers {
+            text-align: right;
+            font-size: smaller;
+          }
+          #footer-deal-breakers li {
+            display: inline-block;
+            vertical-align: top;
+          }
+          #footer-deal-breakers li:not(:last-of-type)::after {
+            content: '|';
+            margin: 0 0.2rem;
           }
         `}
       </style>
