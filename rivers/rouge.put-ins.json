@@ -1,0 +1,21 @@
+[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.62233253895496, 45.97548955519915]
+  }
+}, {
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.63209420295193, 45.974908305698534]
+  }
+}, {
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.63281358358195, 45.97352964438511]
+  }
+}, {
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.64974544745371, 45.90039625612525]
+  }
+}]

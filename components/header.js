@@ -2,7 +2,7 @@
 
 export default function Header () {
   return (
-    <header>
+    <div>
       <h1>Adventure Logistics</h1>
       {/* <div id='header-links'>
         <ul id='header-links-info'>
@@ -18,8 +18,10 @@ export default function Header () {
       </div> */}
       <style jsx>
         {`
-          header {
-            padding: 2rem 1rem 1rem 1rem;
+          h1 {
+            padding: 2rem 1rem 0 1rem;
+            font-size: larger;
+            text-align: center;
           }
           #header-links {
             width: 100%;
@@ -40,6 +42,6 @@ export default function Header () {
           }
         `}
       </style>
-    </header>
+    </div>
   )
 }

@@ -1,0 +1,205 @@
+[{
+  "properties": {
+    "class": "S2",
+    "name": "Tête des Six"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94677637709253, 46.339312447708096]
+  }
+}, {
+  "properties": {
+    "class": "R1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94897853508753, 46.338952313114646]
+  }
+}, {
+  "properties": {
+    "class": "R2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94605612845987, 46.337079701871886]
+  }
+}, {
+  "properties": {
+    "class": "R3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94555216467204, 46.33644854427217]
+  }
+}, {
+  "properties": {
+    "class": "R1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.9425043441292, 46.33437169866414]
+  }
+}, {
+  "properties": {
+    "class": "R2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94272963791236, 46.333501742888814]
+  }
+}, {
+  "properties": {
+    "class": "R4-R5",
+    "name": "De Lucifer"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94376432045638, 46.331381527804155]
+  }
+}, {
+  "properties": {
+    "class": "S5"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94162241275075, 46.315248264228046]
+  }
+}, {
+  "properties": {
+    "class": "C"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.94365782075158, 46.31356416404296]
+  }
+}, {
+  "properties": {
+    "class": "S4-S5",
+    "name": "Du Corbeau",
+    "portage": "rive-droite",
+    "description": "Passage au centre entre en rappel dangereux à gauche et un embâcle de billots devant une chute à droite (2002)."
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.9347953150834, 46.31497002516679]
+  }
+}, {
+  "properties": {
+    "class": "R2-R3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.9341589595817, 46.31277783060372]
+  }
+}, {
+  "properties": {
+    "class": "R2-R3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93476406642407, 46.31075486632824]
+  }
+}, {
+  "properties": {
+    "class": "R3-R4",
+    "name": "La danse du Draveur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93512713052992, 46.30838071371406]
+  }
+}, {
+  "properties": {
+    "class": "R2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93159214946026, 46.30595973860338]
+  }
+}, {
+  "properties": {
+    "class": "R4-R5",
+    "name": "La Haute-Tension"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.92776787421498, 46.305775812940766]
+  }
+}, {
+  "properties": {
+    "class": "R2-R3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.92672709044612, 46.30493977941276]
+  }
+}, {
+  "properties": {
+    "class": "R4",
+    "name": "Le Mur"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.9270659502779, 46.303301116661146]
+  }
+}, {
+  "properties": {
+    "class": "C",
+    "name": "Chutes de Maniwaki"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93384314691444, 46.30472240860445]
+  }
+}, {
+  "properties": {
+    "class": "R2-R3"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93137431099673, 46.303301116661146]
+  }
+}, {
+  "properties": {
+    "class": "R2"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.92562333315057, 46.30046971644887]
+  }
+}, {
+  "properties": {
+    "class": "S4-S5",
+    "name": "Des Cèdres",
+    "description": "Passage rive droite. Rappel dangereux rive gauche"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.9275825992602, 46.29870999402587]
+  }
+}, {
+  "properties": {
+    "class": "R1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.9268115975886, 46.294369350240885]
+  }
+}, {
+  "properties": {
+    "class": "R1"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93609851894135, 46.2831048946999]
+  }
+}, {
+  "properties": {
+    "class": "R4",
+    "name": "Le Bonnet Rouge"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-75.93868475020582, 46.283077813891]
+  }
+}]

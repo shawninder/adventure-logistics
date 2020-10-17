@@ -1,0 +1,146 @@
+[
+  {
+    "properties": {
+      "class": "C"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.62676145272377, 45.97715721230418]
+    }
+  },
+  {
+    "properties": {
+      "class": "S4"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.62597585730997, 45.97616890180771]
+    }
+  },
+  {
+    "properties": {
+      "class": "R2",
+      "name": "Sous le pont"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.63280096524798, 45.97468780547743]
+    }
+  },
+  {
+    "properties": {
+      "class": "R2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.63293295514573, 45.97273719117405]
+    }
+  },
+  {
+    "properties": {
+      "class": "R3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.63254645842959, 45.971854865516406]
+    }
+  },
+  {
+    "properties": {
+      "class": "EV"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.6483276305844, 45.961293285366224]
+    }
+  },
+  {
+    "properties": {
+      "class": "EV"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.64680919303554, 45.96056072706878]
+    }
+  },
+  {
+    "properties": {
+      "class": "R2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.6576152480699, 45.94704400456723]
+    }
+  },
+  {
+    "properties": {
+      "class": "R2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.66356450682173, 45.946719550426906]
+    }
+  },
+  {
+    "properties": {
+      "class": "EV-R1"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.66912251803406, 45.94610002528367]
+    }
+  },
+  {
+    "properties": {
+      "class": "R2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.67205002012322, 45.94341533632044]
+    }
+  },
+  {
+    "properties": {
+      "class": "R2-R3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.67137117905882, 45.94096655059792]
+    }
+  }, {
+    "properties": {
+      "class": "R2"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.67342687845772, 45.936690176485286]
+    }
+  },
+  {
+    "properties": {
+      "class": "R4"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.66533609390335, 45.92285193121043]
+    }
+  },
+  {
+    "properties": {
+      "class": "R3-R4"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.66500114723303, 45.92267154558496]
+    }
+  },
+  {
+    "properties": {
+      "class": "R3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.65001797027689, 45.84140090674575]
+    }
+  }
+]
