@@ -24,3 +24,7 @@ source: https://outdoorindustry.org/pdf/OIA_OutdoorRecEconomyReport2012.pdf
 - 5,7 million users of official campgrounds in Canada in 2014
 
 source: http://www.fqcc.ca/media-camping-en-chiffres.html
+
+## Needs
+
+- What questions are being asked on The Great Outdoors or related Facebook groups (on the Stack Exchange network)? Do they hint at missing software?

@@ -10,7 +10,7 @@ Correctly tracking expenses and revenues against predictions allows making bette
 
 What we're doing is encouraging safety, the protection of the environment, fun, science, physical activity, collaboration, transparency, non-profit motives, etc. This is easy material to sell! It's not unreasonable to expect some level of success with:
 - crowdfunding
-  - Hikster adds 1km of trails in the appp for every 5$ donated, for example
+  - Hikster adds 1km of trails in the app for every 5$ donated, for example
 - making it possible to pay for the free plan
 - donations (including kickstarter, indiegogo, and the like)
 - grants
@@ -59,12 +59,12 @@ We're selling a way of life with a powerful message. It is well suited to beauti
 - Online services
 - Physical services
 - Products
-- Events
+- Events (mine and others)
 - Donations and the like
 - Referrals
 - Affiliate advertisement
 - Extremely targeted and localized advertisement
-- Competitive travel insurance since we can charge you based on how prepared you are for your adventure...
+- Competitive travel insurance since we can charge you based on how well prepared you are for your adventure...
 
 ## Publicity through impactful action
 
@@ -77,7 +77,7 @@ We're selling a way of life with a powerful message. It is well suited to beauti
 
 - Take the time to build the quality we need, then sell what applies to others with the same needs
 - Cleaning up our code for better maintainability, then using it as an example for documentation or in a tutorial
-- Go have fun in the Wild, but also bring marketing material back and test a product and onboard an employee and cram as much value in there as possible
+- Go have fun in the Wild, but also bring marketing materials back and test a product and onboard an employee and cram as much value in there as possible
 - Writing usage examples as tests to make sure they are correct and cover all grounds from an intuitive standpoint
 
 ## Grow intelligently
@@ -90,7 +90,7 @@ For example, let the user refine his search a little before performing it. Let t
 
 ## Keep the team small
 
-Salaries are expensive. Keep the permanent core team small, even during growth, and rely on volunteers and contractors to accomplish specific goals where extra man-power is needed.
+Salaries are expensive. Keep the permanent core team small, even during growth, and rely on volunteers and contractors to accomplish specific goals where extra person-power is needed.
 
 ### The core team needs to cover
 - operations: keep things up and runnings, fixing bugs, paying bills and salaries, keeping up with a changing world

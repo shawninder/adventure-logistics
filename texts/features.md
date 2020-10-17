@@ -25,6 +25,7 @@
 - guides and counsellors with reviews and prices
 - comments from the community and ways to reach out
 - interface in your preferred language, content from all languages you understand
+- collaborate on measuring water flow rates and traffic on the river
 
 <a id='paid-features' />
 
@@ -36,11 +37,13 @@
 - Making a purchase through the system should benefit the purchaser (integrated to the rest of the trip), the seller (gets his money) and the system (gets a commission?)
 - Fundraising your adventure (similarly to how kickstarter charge you a 15$ fee)
 - Big data searches (find this type of wave during this particular week, anywhere on the planet, of course you have to pay for this)
+- Crowd-crowd-avoidance
 
 ## Categories
-- [ ] Expedition Plan
+- Expedition Plan
   - participant profiles
     - medical information
+      - allergies
     - relevant training/skills
   - itinerary details
     - annotated maps
@@ -53,5 +56,18 @@
     - emergency protocols
     - shopping lists
     - cooking instructions
-  - meal planning
-- [ ] Hello
+  - food
+    - portions
+    - conservation
+    - volumes and weights
+    - restrictions
+      - allergies
+      - intolerances
+      - diets
+    - recipes
+    - alternatives
+    - wilderness cooking
+- Book-keeping
+  - auth
+  - payments
+  - permissions

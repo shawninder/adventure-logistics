@@ -1,13 +1,12 @@
 export default function Teaser () {
   return (
     <div id='teaser'>
-      <img src='/Shawn-starting-fire.JPG' />
+      <img src='/Shawn-starting-fire.64x48.JPG' />
       <style jsx>
         {`
           #teaser {
             margin: 0 auto;
-            width: 600px;
-            height: 320px;
+            width: 100%
             background-color: black;
           }
           img {

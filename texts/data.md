@@ -1,6 +1,6 @@
 # Data
 
-By data, we mean anything that can be stored, like account details, names of rivers, etc.
+By data, we mean anything that can be stored, like account details, rivers, etc.
 
 - Quality (human-created, human-curated)
 - Timeliness (automatic detection of staleness)

@@ -5,3 +5,6 @@
 ## reseauzec.com
 ## Native Reserves?
 ## Native online communities?
+## paddlelogger.com
+## indiehacker.com?
+## Open Startups

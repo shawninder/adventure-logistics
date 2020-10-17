@@ -2,12 +2,18 @@
 
 ## Physical products
 
-Order online
++ Wild-worthy things
+  - Ungava shelter
+  - Camping seating
+  - Custom maps
+    + Minimaps
+      - waterproof
+      - fit in pfd pocket
+      - durable
+      - stackable
+      - securable together or apart
 
-+ Partner with the boys for Wild-worthy things with branding?
-  - Insect shelter
-
-+ Cheaper custom hardware for the office, re-usable in the wild, sellable as products
++ Cheaper custom hardware for the office, re-usable in the wild, sellable as products, most of them just tossed in Pelican case-style packaging?
   - Internet hotspots
   - Solar chargers
   - Fire chargers
@@ -18,4 +24,3 @@ Order online
   - Lightweight large screens (un-rollable?)
   - Cheap standing desks for any surface
   - Cheap lightweight projectors
-  - most of them just tossed in Pelican case-style packaging
